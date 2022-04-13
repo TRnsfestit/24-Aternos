@@ -4,8 +4,8 @@ console.log('Starting...')
 
 function createBot () {
     const bot = mineflayer.createBot({
-    host: "localhost",
-    port: "25565",
+    host: "MIpixel.aternos.me:11125",
+    port: "11125",
     username: "Test",
     version: false
     })
